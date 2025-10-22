@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AU_FILESOURCE>
-        <au_activeVersion><![CDATA[1]]></au_activeVersion>
         <au_fileName><![CDATA[TextDummy.txt]]></au_fileName>
-        <au_permissionMask><![CDATA[770]]></au_permissionMask>
-        <au_synchronized><![CDATA[0]]></au_synchronized>
-        <au_id><![CDATA[1430434336942792704]]></au_id>
-        <au_description><![CDATA[SS_File_Source]]></au_description>
-        <au_entityName><![CDATA[SS_File_Source]]></au_entityName>
-        <au_persistDataEnabled><![CDATA[0]]></au_persistDataEnabled>
         <au_userOwner><![CDATA[IndigoUser:1430061537290371072]]></au_userOwner>
-        <au_modifiedDate><![CDATA[2025-10-22T07:11:38]]></au_modifiedDate>
-        <au_comments><![CDATA[]]></au_comments>
-        <au_revision><![CDATA[]]></au_revision>
-        <au_modifiedBy><![CDATA[IndigoUser:1430061537290371072]]></au_modifiedBy>
-        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
-        <au_filepath><![CDATA[/shared/shivam]]></au_filepath>
+        <au_synchronized><![CDATA[0]]></au_synchronized>
+        <au_modifiedDate><![CDATA[2025-10-22T14:58]]></au_modifiedDate>
         <au_deleteOnSuccess><![CDATA[0]]></au_deleteOnSuccess>
+        <au_id><![CDATA[1430434336942792704]]></au_id>
         <au_creationDate><![CDATA[2025-10-22T05:55:22]]></au_creationDate>
-        <au_projectOwner><![CDATA[Project:11484550701988]]></au_projectOwner>
-        <au_version><![CDATA[1]]></au_version>
         <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_revision><![CDATA[55f33869b1bca427936c97c1041264bc32aef603]]></au_revision>
+        <au_filepath><![CDATA[/shared/shivam]]></au_filepath>
+        <au_modifiedBy><![CDATA[IndigoUser:1430061537290371072]]></au_modifiedBy>
+        <au_entityName><![CDATA[SS_File_Source]]></au_entityName>
+        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_activeVersion><![CDATA[1]]></au_activeVersion>
+        <au_comments><![CDATA[]]></au_comments>
+        <au_projectOwner><![CDATA[Project:11484550701988]]></au_projectOwner>
+        <au_persistDataEnabled><![CDATA[0]]></au_persistDataEnabled>
+        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
+        <au_description><![CDATA[SS_File_Source]]></au_description>
+        <au_version><![CDATA[1]]></au_version>
     </AU_FILESOURCE>
     <columnInfo dbtype="4">
         <column name="au_id" type="12"/>
