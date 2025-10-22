@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AU_EventRegistry>
-        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
-        <au_userOwner><![CDATA[IndigoUser:1430061537290371072]]></au_userOwner>
-        <au_previousVersion><![CDATA[]]></au_previousVersion>
-        <au_eventparam><![CDATA[]]></au_eventparam>
-        <au_revision><![CDATA[null]]></au_revision>
         <au_description><![CDATA[SS_Event_Registry]]></au_description>
-        <au_subscriberId><![CDATA[Transaction:1430435799832141824]]></au_subscriberId>
-        <au_modifiedDate><![CDATA[2025-10-22T14:37:25]]></au_modifiedDate>
-        <au_id><![CDATA[1430435937069768704]]></au_id>
-        <au_creationDate><![CDATA[2025-10-22T06:01:44]]></au_creationDate>
-        <au_eventId><![CDATA[FileEvent:1430435429248606208]]></au_eventId>
-        <au_projectOwner><![CDATA[Project:1430563528515420160]]></au_projectOwner>
-        <au_permissionMask><![CDATA[770]]></au_permissionMask>
-        <au_comments><![CDATA[null]]></au_comments>
-        <au_synchronized><![CDATA[0]]></au_synchronized>
-        <au_activeVersion><![CDATA[1]]></au_activeVersion>
-        <au_paramMapXml><![CDATA[]]></au_paramMapXml>
         <au_entityName><![CDATA[SS_Event_Registry]]></au_entityName>
-        <au_version><![CDATA[1]]></au_version>
         <au_modifiedBy><![CDATA[IndigoUser:1430061537290371072]]></au_modifiedBy>
+        <au_userOwner><![CDATA[IndigoUser:1430061537290371072]]></au_userOwner>
+        <au_revision><![CDATA[1d58422199e9ee5a8e3fb1276ca7cbc2cfddba36]]></au_revision>
+        <au_paramMapXml><![CDATA[]]></au_paramMapXml>
+        <au_id><![CDATA[1430435937069768704]]></au_id>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
+        <au_subscriberId><![CDATA[Transaction:1430435799832141824]]></au_subscriberId>
+        <au_eventparam><![CDATA[]]></au_eventparam>
+        <au_activeVersion><![CDATA[1]]></au_activeVersion>
+        <au_version><![CDATA[1]]></au_version>
+        <au_modifiedDate><![CDATA[2025-10-22T14:37:25]]></au_modifiedDate>
+        <au_creationDate><![CDATA[2025-10-22T06:01:44]]></au_creationDate>
+        <au_synchronized><![CDATA[1]]></au_synchronized>
+        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_projectOwner><![CDATA[Project:1430563528515420160]]></au_projectOwner>
+        <au_comments><![CDATA[null]]></au_comments>
+        <au_eventId><![CDATA[FileEvent:1430435429248606208]]></au_eventId>
     </AU_EventRegistry>
     <columnInfo dbtype="4">
         <column name="au_id" type="12"/>
