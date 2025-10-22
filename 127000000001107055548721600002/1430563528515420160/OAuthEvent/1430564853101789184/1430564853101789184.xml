@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <AU_OAUTHEVENT>
+        <au_revision><![CDATA[null]]></au_revision>
+        <au_modifiedDate><![CDATA[2025-10-22T14:34:38]]></au_modifiedDate>
+        <au_resSchemaId><![CDATA[null]]></au_resSchemaId>
+        <au_fileBaseLocation><![CDATA[null]]></au_fileBaseLocation>
+        <au_activeVersion><![CDATA[1]]></au_activeVersion>
+        <au_misFireInstructions><![CDATA[null]]></au_misFireInstructions>
+        <au_processPerPoll><![CDATA[-1]]></au_processPerPoll>
+        <au_parametersXml><![CDATA[]]></au_parametersXml>
+        <au_pollingFrequency><![CDATA[5$m]]></au_pollingFrequency>
+        <au_projectOwner><![CDATA[Project:1430563528515420160]]></au_projectOwner>
+        <au_entityName><![CDATA[SS_GoogleDrive_AppTrigger]]></au_entityName>
+        <au_userOwner><![CDATA[IndigoUser:1430061537290371072]]></au_userOwner>
+        <au_calendarType><![CDATA[AllDays]]></au_calendarType>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_synchronized><![CDATA[0]]></au_synchronized>
+        <au_id><![CDATA[1430564853101789184]]></au_id>
+        <au_creationMode><![CDATA[Simple]]></au_creationMode>
+        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_reqSchemaId><![CDATA[null]]></au_reqSchemaId>
+        <au_eventExpiryDateTime><![CDATA[null]]></au_eventExpiryDateTime>
+        <au_adapterType><![CDATA[1194602506738491392]]></au_adapterType>
+        <au_eventStartDateTime><![CDATA[null]]></au_eventStartDateTime>
+        <au_stableTime><![CDATA[null]]></au_stableTime>
+        <au_triggerType><![CDATA[GetFile]]></au_triggerType>
+        <au_description><![CDATA[SS_GoogleDrive_AppTrigger]]></au_description>
+        <au_accountId><![CDATA[OAuthAccount:1430564742170836992]]></au_accountId>
+        <au_runInitialLoad><![CDATA[0]]></au_runInitialLoad>
+        <au_activateFlag><![CDATA[0]]></au_activateFlag>
+        <au_connectorId><![CDATA[1194602506738491392]]></au_connectorId>
+        <au_version><![CDATA[1]]></au_version>
+        <au_creationDate><![CDATA[2025-10-22T14:34]]></au_creationDate>
+        <au_receiverEmailIds><![CDATA[null]]></au_receiverEmailIds>
+        <au_triggerInSequence><![CDATA[0]]></au_triggerInSequence>
+        <au_businessInterval><![CDATA[ ]]></au_businessInterval>
+        <au_groupOwner><![CDATA[IndigoGroup:127000000001107055548721600002]]></au_groupOwner>
+        <AU_MAILNOTIFICATIONACTION><![CDATA[null]]></AU_MAILNOTIFICATIONACTION>
+        <au_filterIn><![CDATA[]]></au_filterIn>
+        <au_comments><![CDATA[null]]></au_comments>
+        <au_modifiedBy><![CDATA[IndigoUser:1430061537290371072]]></au_modifiedBy>
+        <au_referenceField><![CDATA[{"dynamicParams":[],"pathparams":[{"fileId":"1XTTcyXlybOZofWRcT7pq9tdNePQWavXm"}],"queryparams":[],"headerparams":[],"dynamicUiParams":[{"fileId":"/Test_Source"}]}]]></au_referenceField>
+    </AU_OAUTHEVENT>
+    <columnInfo dbtype="4">
+        <column name="au_id" type="12"/>
+        <column name="au_version" type="12"/>
+        <column name="au_previousVersion" type="12"/>
+        <column name="au_activeVersion" type="3"/>
+        <column name="au_entityName" type="12"/>
+        <column name="au_userOwner" type="12"/>
+        <column name="au_groupOwner" type="12"/>
+        <column name="au_permissionMask" type="12"/>
+        <column name="au_description" type="12"/>
+        <column name="au_comments" type="12"/>
+        <column name="au_modifiedBy" type="12"/>
+        <column name="au_creationDate" type="93"/>
+        <column name="au_modifiedDate" type="93"/>
+        <column name="au_revision" type="12"/>
+        <column name="au_synchronized" type="3"/>
+        <column name="au_projectOwner" type="12"/>
+        <column name="au_activateFlag" type="3"/>
+        <column name="au_eventStartDateTime" type="12"/>
+        <column name="au_eventExpiryDateTime" type="12"/>
+        <column name="au_triggerInSequence" type="3"/>
+        <column name="au_calendarType" type="12"/>
+        <column name="au_businessInterval" type="12"/>
+        <column name="au_creationMode" type="12"/>
+        <column name="au_receiverEmailIds" type="12"/>
+        <column name="au_misFireInstructions" type="12"/>
+        <column name="au_processPerPoll" type="4"/>
+        <column name="au_triggerType" type="12"/>
+        <column name="au_adapterType" type="12"/>
+        <column name="au_pollingFrequency" type="12"/>
+        <column name="au_accountId" type="12"/>
+        <column name="au_fileBaseLocation" type="12"/>
+        <column name="au_filterIn" type="-1"/>
+        <column name="au_referenceField" type="12"/>
+        <column name="au_parametersXml" type="12"/>
+        <column name="au_runInitialLoad" type="3"/>
+        <column name="au_stableTime" type="12"/>
+        <column name="au_reqSchemaId" type="12"/>
+        <column name="au_resSchemaId" type="12"/>
+        <column name="au_connectorId" type="12"/>
+        <column name="AU_MAILNOTIFICATIONACTION" type="12"/>
+    </columnInfo>
+</data>
